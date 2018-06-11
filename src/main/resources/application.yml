@@ -1,0 +1,4 @@
+spring:
+  datasource:
+    url: jdbc:mysql://localhost/ecommerce_order
+    username: root

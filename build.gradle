@@ -49,3 +49,8 @@ dependencyManagement {
         mavenBom "org.springframework.cloud:spring-cloud-dependencies:${springCloudVersion}"
     }
 }
+
+flyway {
+    url = 'jdbc:mysql://localhost/ecommerce_order'
+    user = 'root'
+}
