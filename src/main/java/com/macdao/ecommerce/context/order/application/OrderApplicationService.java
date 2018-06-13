@@ -1,8 +1,8 @@
-package com.macdao.ecommerce.service.order.application;
+package com.macdao.ecommerce.context.order.application;
 
-import com.macdao.ecommerce.service.order.domain.model.order.Order;
-import com.macdao.ecommerce.service.order.domain.model.order.OrderId;
-import com.macdao.ecommerce.service.order.domain.model.order.OrderRepository;
+import com.macdao.ecommerce.context.order.domain.model.order.Order;
+import com.macdao.ecommerce.context.order.domain.model.order.OrderId;
+import com.macdao.ecommerce.context.order.domain.model.order.OrderRepository;
 import org.springframework.stereotype.Service;
 
 import java.util.Optional;

@@ -19,7 +19,7 @@ plugins {
 
 apply plugin: 'spring-cloud-contract'
 
-group = 'com.macdao.ecommerce.service'
+group = 'com.macdao.ecommerce.context'
 version = '0.0.1-SNAPSHOT'
 sourceCompatibility = 1.8
 

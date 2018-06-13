@@ -1,8 +1,8 @@
-package com.macdao.ecommerce.service.order.adapter.mysql;
+package com.macdao.ecommerce.context.order.adapter.mysql;
 
-import com.macdao.ecommerce.service.order.domain.model.order.Order;
-import com.macdao.ecommerce.service.order.domain.model.order.OrderId;
-import com.macdao.ecommerce.service.order.domain.model.order.OrderRepository;
+import com.macdao.ecommerce.context.order.domain.model.order.Order;
+import com.macdao.ecommerce.context.order.domain.model.order.OrderId;
+import com.macdao.ecommerce.context.order.domain.model.order.OrderRepository;
 import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.stereotype.Repository;
 

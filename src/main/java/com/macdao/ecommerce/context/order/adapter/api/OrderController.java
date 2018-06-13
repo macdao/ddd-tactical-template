@@ -1,8 +1,8 @@
-package com.macdao.ecommerce.service.order.adapter.api;
+package com.macdao.ecommerce.context.order.adapter.api;
 
-import com.macdao.ecommerce.service.order.application.OrderApplicationService;
-import com.macdao.ecommerce.service.order.domain.model.order.Order;
-import com.macdao.ecommerce.service.order.domain.model.order.OrderId;
+import com.macdao.ecommerce.context.order.application.OrderApplicationService;
+import com.macdao.ecommerce.context.order.domain.model.order.Order;
+import com.macdao.ecommerce.context.order.domain.model.order.OrderId;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;

@@ -1,4 +1,4 @@
-package com.macdao.ecommerce.service.common.domain.model;
+package com.macdao.ecommerce.context.common.domain.model;
 
 import com.fasterxml.jackson.annotation.JsonValue;
 import lombok.EqualsAndHashCode;

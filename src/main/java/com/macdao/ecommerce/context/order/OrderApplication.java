@@ -1,4 +1,4 @@
-package com.macdao.ecommerce.service.order;
+package com.macdao.ecommerce.context.order;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

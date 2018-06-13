@@ -1,4 +1,4 @@
-package com.macdao.ecommerce.service.order.domain.model.order;
+package com.macdao.ecommerce.context.order.domain.model.order;
 
 import java.util.Optional;
 
